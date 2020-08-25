@@ -1,4 +1,4 @@
-# real
+# Real World Vue
 
 ## Project setup
 ```
@@ -13,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### To start a json server
+```
+json-server --watch db.json
 ```
 
 ### Lints and fixes files
