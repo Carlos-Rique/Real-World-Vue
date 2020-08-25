@@ -1,0 +1,980 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": [
+        {
+          "name": "Carlos"
+        },
+        {
+          "name": "Karol"
+        }
+      ]
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 9892268,
+      "category": "education",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1561816,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Natural's PRO",
+      "description": "We'll build natural products",
+      "location": "Greenpeace",
+      "date": "2020-04-18T01:28:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 6356442,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "tESTING",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 258869,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "iHUUU",
+      "description": "Never give up",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1097096,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "aasas",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4818609,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1625423,
+      "category": "housing",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "as",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5482084,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "saas",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5085489,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3360408,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8363403,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "assa",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 132874,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asassa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5847624,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2623484,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6019182,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7037135,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2926437,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "sasasa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7616025,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6988807,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8069390,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asassasa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3410293,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "ola mundo",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8799523,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8784175,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asas",
+      "description": "saas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4873388,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9525562,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6182897,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "aas",
+      "description": "saasas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6154571,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "assa",
+      "description": "aassa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8562355,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "",
+      "description": "asasas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1839163,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "sasa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2489926,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "sassa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8771590,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "sasa",
+      "description": "saas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1579007,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "pega",
+      "description": "assa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5361573,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "assa",
+      "description": "assaa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6656473,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "assaas",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3222096,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "assa",
+      "description": "qassa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 889329,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "saas",
+      "description": "qaasas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8325997,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Agora vai",
+      "description": "Keep Kalma",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1256029,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "aassa",
+      "description": "asasaas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4552599,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Really?",
+      "description": "don't believe",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8851722,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "koaslcask",
+      "description": "lajddnsj",
+      "location": "djasa",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4660906,
+      "category": "nature",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "L--L",
+      "description": "Be okay and never give up, relax and be happy :D",
+      "location": "Somewhere over the rainbow",
+      "date": "2020-04-23T02:01:00.000Z",
+      "time": "24:00",
+      "attendees": []
+    },
+    {
+      "id": 14860,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "testando",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7444637,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "agora vai",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8540201,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asassa",
+      "description": "asas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4126392,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asaas",
+      "description": "asasasa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4806007,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "as",
+      "description": "sasasa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 21064,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "aasa",
+      "description": "asasasa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5669064,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asaas",
+      "description": "asaasa",
+      "location": "sasa",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5974935,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "ssssssssss",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4970530,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "agora vai",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8668202,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asasas",
+      "description": "assa",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8034771,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "saas",
+      "description": "as",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6948292,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "SUCESS",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2088115,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Success??",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5515482,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Now, definetly",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2240586,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "We've done it ",
+      "description": "Never Give Up :)",
+      "location": "",
+      "date": "2020-04-04T05:36:00.000Z",
+      "time": "12:00",
+      "attendees": []
+    },
+    {
+      "id": 4104377,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Now enjoy!",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2447193,
+      "category": "housing",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Cool Event",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3906823,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Another Cool event",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8765671,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Hey another test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2691947,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "Alak",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2337860,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": ":D",
+      "description": "Enjoy",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7190849,
+      "category": "",
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "title": "asasa",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 363836,
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "category": "education",
+      "title": "Puppu Promenade",
+      "description": "Get here :D",
+      "location": "Novo Aleixo",
+      "date": "2020-04-19T02:20:00.000Z",
+      "time": "16:00",
+      "attendees": []
+    },
+    {
+      "id": 7384537,
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "category": "nature",
+      "title": "I think I get it! ",
+      "description": "Thanks",
+      "location": "Somewhere",
+      "date": "2020-04-23T02:46:00.000Z",
+      "time": "14:00",
+      "attendees": []
+    },
+    {
+      "id": 1407027,
+      "organizer": {
+        "id": "abc1998",
+        "name": "Carlitos"
+      },
+      "category": "housing",
+      "title": "Cool title",
+      "description": "cool description",
+      "location": "cool location",
+      "date": "2020-05-16T03:45:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    }
+  ]
+}
